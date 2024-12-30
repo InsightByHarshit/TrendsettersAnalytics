@@ -4,7 +4,7 @@ This project focuses on exploring, analyzing, and visualizing data related to dr
 
 The project demonstrates proficiency in exploratory data analysis (EDA) and visualization using Python.
 
-**Features**
+**Features**:-
 
 **Univariate Analysis**: Insights into individual attributes such as ratings, styles, and price categories.
 
